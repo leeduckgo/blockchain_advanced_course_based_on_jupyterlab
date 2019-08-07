@@ -1,7 +1,7 @@
 # Bitcoin course based on jupyterlab
 基于 JupyterLab 的互动式比特币教程（进阶）
 
-入门课程地址：
+**入门课程地址：**
 
 https://github.com/albertschr/bitcoin_elementary_course_based_on_jupyterlab
 
