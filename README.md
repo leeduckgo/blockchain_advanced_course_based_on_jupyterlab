@@ -3,7 +3,11 @@
 
 **入门课程地址：**
 
-https://github.com/albertschr/bitcoin_elementary_course_based_on_jupyterlab
+  https://xue.cn/hub/app/books/3
+  
+**入门课程仓库地址：**
+
+  https://github.com/albertschr/bitcoin_elementary_course_based_on_jupyterlab
 
 ## 进阶内容适合人群
 
